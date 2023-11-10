@@ -1,5 +1,6 @@
 # Translator
-All Language  Translation Application  Using Swing Java 
+All Language  Translation Application  Using Swing Java
+<br>
 Author- Liaqat Ali Sanjrani
 
 This simple Java application allows users to translate English text to Urdu using the MyMemory translation service. 
